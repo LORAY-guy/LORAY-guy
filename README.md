@@ -1,5 +1,5 @@
 <h1 align="center">LORAY - Video game enthousiast from France</h1>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loray-guy&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8" alt="Most Used Languages"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=loray-guy&show_icons=true&locale=en&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8" alt="loray-guy" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loray-guy&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8" alt="Most Used Languages"/><img src="https://github-readme-stats.vercel.app/api?username=loray-guy&show_icons=true&locale=en&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8" alt="loray-guy" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loray-guy&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8" alt="loray-guy" /></p>
 
 <h3 align="center">Connect with me:</h3>
