@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api
             /top-langs/
-            ?username=LORAY
+            ?username=LORAY-guy
             &layout=compact
             &theme=transparent
             &text_color=cdd6f4
@@ -13,7 +13,7 @@
     alt="Most Used Languages"/>
 </br>
 <img src="https://github-readme-stats.vercel.app/api
-            ?username=LORAY
+            ?username=LORAY-guy
             &show_icons=true
             &theme=transparent
             &text_color=cdd6f4
