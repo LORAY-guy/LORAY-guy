@@ -1,6 +1,8 @@
 <h1 align="center">LORAY - Video game enthousiast from France</h1>
-[![LORAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=LORAY-guy)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loray-guy&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8" alt="loray-guy" /></p>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=LORAY-guy&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
+alt="Most Used Languages"
+/>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
